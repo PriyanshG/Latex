@@ -1,0 +1,28 @@
+\nobreakspace {}\hfill \textbf {Page}\par 
+\contentsline {section}{\numberline {1}To implement 3x3 sparse matrix.}{1}% 
+\contentsline {section}{\numberline {2}To implement rxc sparse matrix.}{2}% 
+\contentsline {section}{\numberline {3}Write a program to implement linear search.}{3}% 
+\contentsline {section}{\numberline {4}Write a program to implement binary search.}{4}% 
+\contentsline {section}{\numberline {5}Write a program to implement following operation in stack.}{5}% 
+\contentsline {subsection}{\numberline {5.1}To push element into stack.}{5}% 
+\contentsline {subsection}{\numberline {5.2}To pop from stack.}{5}% 
+\contentsline {subsection}{\numberline {5.3}To print top element.}{5}% 
+\contentsline {section}{\numberline {6}Write a program to find the reverse of the string using stack.}{7}% 
+\contentsline {section}{\numberline {7}Write a program to find whether a string is palindrome or not.}{8}% 
+\contentsline {section}{\numberline {8}Write a program to implement queue using array.}{9}% 
+\contentsline {section}{\numberline {9}Write a program to implement a circular queue using an array.}{11}% 
+\contentsline {section}{\numberline {10}Write a program to convert infix to postfix.}{13}% 
+\contentsline {section}{\numberline {11}Write a program to implement priority queue.}{15}% 
+\contentsline {section}{\numberline {12}Given two integers n and m, in a single operation n can be multiplied by either 2 or 3. Write a program to find the minimum number of given operati to convert n into m. If it is impossible to convert n to m with the given operation then print -1.}{18}% 
+\contentsline {section}{\numberline {13}Write a program to implement following operation.}{20}% 
+\contentsline {subsection}{\numberline {13.1}To insert an element in linked list.}{20}% 
+\contentsline {subsection}{\numberline {13.2}To delete an element from linked list.}{20}% 
+\contentsline {subsection}{\numberline {13.3}To traverse }{20}% 
+\contentsline {section}{\numberline {14}Given a Linked List of integers, write a program to print the linked list such that all even numbers appear before all the odd numbers in the linked list. Also, keep the order of even and odd numbers same.}{23}% 
+\contentsline {section}{\numberline {15}Write a program to perform following operation on doubly linked list.}{27}% 
+\contentsline {subsection}{\numberline {15.1}To add an element at head.}{27}% 
+\contentsline {subsection}{\numberline {15.2}To add an element after a node.}{27}% 
+\contentsline {subsection}{\numberline {15.3}To add an element at tail.}{27}% 
+\contentsline {subsection}{\numberline {15.4}To add an element before a node.}{27}% 
+\contentsline {section}{\numberline {16}Given a doubly linked list containing N nodes. The task is to find the product of all prime nodes.}{30}% 
+\contentsline {section}{\numberline {17}Given a sorted doubly linked list of positive distinct elements, write a program to find pairs in the doubly linked list whose product is equal to given value x, without using any extra space.}{34}% 
