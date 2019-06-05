@@ -1,0 +1,3 @@
+
+download tex
+pdflatex %filename%
